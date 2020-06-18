@@ -1,2 +1,1 @@
-# Spotlists
-CS419 Final Project.
+# CS419 Final Project
